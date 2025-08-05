@@ -1,4 +1,4 @@
-# Elijah Ondiek - Portfolio 2025
+# Bright Tenalo - Portfolio 2025
 
 A modern, interactive portfolio website showcasing my skills, projects, and professional experience.
 
@@ -57,16 +57,4 @@ npm install
 npm run dev
 ```
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙏 Acknowledgments
-
-- Design inspiration from modern web trends
-- Icons from Lucide Icons
-- Font from Google Fonts
-
----
-
-© 2025 Elijah Ondiek. All rights reserved.
+© 2025 Bright Tenalo. All rights reserved.
